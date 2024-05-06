@@ -1,0 +1,18 @@
+As an experienced professional in the software industry, you are currently employed at a company that has developed its own software solution, 
+integrating various third-party software components. Recently, your team encountered a significant challenge with one of your third-party software providers. 
+The provider notified you that they would cease support for your current implementation and required you to upgrade your codebase to align with their new implementation standards.
+
+This unexpected development prompted your team to reflect on your processes and consider preventive measures to mitigate similar challenges in the future. 
+While this issue primarily concerns the third-party software provider, it raises questions about your approach to software integration and dependency management.
+
+What strategies can you implement to ensure timely updates and maintenance of your software to adapt to changes in third-party software requirements?
+
+Answer:
+According to Heraclitus, a Greek philosopher once said that the only permanent thing in this world is change. 
+Therefore as an experienced professional in the software industry who faced a lot of challenges before, 
+you need to expect change because IT professionals are embracing change to make everyone’s life better. 
+
+The only strategy you need to adapt is to keep updated on every possible change that the third party will make. 
+Not only for you but also for the people who are involved in the project. 
+You can assign someone who can focus on checking for potential updates in the third-party software that the company is using. 
+So the potential for problems that you will face will be lessened.
