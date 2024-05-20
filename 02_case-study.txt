@@ -1,0 +1,17 @@
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. 
+The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, 
+it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. 
+The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, 
+what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, 
+unresolved bugs, and a delayed testing process?
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+Answer:
+As I analyze the problem, it lacks a clear approach. Therefore, I suggest that an agile approach is better for this specific issue. 
+When a developer is given a task, they estimate the hours needed based on their capacity. 
+If the task is still in progress beyond the deadline, it is their responsibility because they estimated the time required. 
+When this happens, it signals that someone needs to help them finish the task and move on to the next one 
+so the whole project can be completed by the specific deadline. 
+Additionally, it's better to test the software early, even if it's not finished, because waiting until the end wastes time. 
+By testing early, errors can be found and fixed sooner.
